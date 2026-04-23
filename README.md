@@ -3,9 +3,7 @@
 ## About me
 
 - 🔭 Currently studying on TripleTen Data Analyst bootcamp
-- 📖 I’m currently learning SQL, Power BI and advanced Python
-- 🤝 I’m looking to collaborate on financial analysis
-- 💬 Ask me about ecommerce and marketing analysis 
+- 📖 I’m currently learning SQL, Power BI and advanced Python 
 - 📫 How to reach me: sebastianor2099@gmail.com
 - 💼 [My LinkedIn](https://www.linkedin.com/in/sebastian-oropeza-ramirez)
 - 😄 Pronouns: He/Him
