@@ -1,20 +1,22 @@
-# Hi my name is Sebastian
+# Sebastián Oropeza — Data Analyst
 
 ## About me
 
-- 🔭 Currently studying on TripleTen Data Analyst bootcamp
-- 📖 I’m currently learning SQL, Power BI and advanced Python 
-- 📫 How to reach me: sebastianor2099@gmail.com
-- 💼 [My LinkedIn](https://www.linkedin.com/in/sebastian-oropeza-ramirez)
-- 😄 Pronouns: He/Him
+Data Analyst with hands-on experience in Python, SQL, and Tableau, 
+focused on exploratory data analysis, data cleaning, and business 
+insights. Completed TripleTen's Data Analysis Bootcamp (2025).
 
-## Technical skills:
-<div id="header" align="left">
-    <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge" alt="python"/>
-  </a>
-    <img decoding="async" src="https://img.shields.io/badge/SQL-6DB33F?style=for-the-badge" alt="sql"/>
-  </a>
- <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge" alt="excel"/>
-  </a>
-  
-</div>
+🌎 Bilingual (Spanish/English C1) | 💻 Open to remote opportunities
+
+---
+
+## 🛠️ Technical skills:
+- **Languages:** Python (Pandas, NumPy, Scipy, Seaborn, Matplotlib) | SQL
+- **Visualization:** Tableau | Power BI | Excel
+- **Other:** Machine Learning basics | Data Pipelines | Git & GitHub | Web Scraping (BeautifulSoup)
+
+## 📫 Contact
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/sebastian-oropeza-ramirez)
+- 🌐 [Portfolio](https://sgcuervo.github.io/)
+- 📧 sebastianor2099@gmail.com
