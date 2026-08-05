@@ -12,7 +12,7 @@ insights. Completed TripleTen's Data Analysis Bootcamp (2025).
 
 ## 🛠️ Technical skills:
 - **Languages:** Python (Pandas, NumPy, Scipy, Seaborn, Matplotlib) | SQL
-- **Visualization:** Tableau | Power BI | Excel
+- **Visualization:** Tableau | Excel
 - **Other:** Machine Learning basics | Data Pipelines | Git & GitHub | Web Scraping (BeautifulSoup)
 
 ## 📫 Contact
