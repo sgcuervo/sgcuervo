@@ -4,7 +4,7 @@
 
 Data Analyst with hands-on experience in Python, SQL, and Tableau, 
 focused on exploratory data analysis, data cleaning, and business 
-insights. Completed TripleTen's Data Analysis Bootcamp (2025).
+insights. Completed TripleTen's Data Analysis Bootcamp (2026).
 
 🌎 **Bilingual (Spanish/English C1) | 💻 Open to remote opportunities**
 
