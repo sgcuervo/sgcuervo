@@ -6,9 +6,9 @@ Data Analyst with hands-on experience in Python, SQL, and Tableau,
 focused on exploratory data analysis, data cleaning, and business 
 insights. Completed TripleTen's Data Analysis Bootcamp (2025).
 
-🌎 Bilingual (Spanish/English C1) | 💻 Open to remote opportunities
+🌎 **Bilingual (Spanish/English C1) | 💻 Open to remote opportunities**
 
----
+
 
 ## 🛠️ Technical Skills
 
@@ -26,7 +26,7 @@ insights. Completed TripleTen's Data Analysis Bootcamp (2025).
 ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BEAUTIFULSOUP-darkgreen?style=for-the-badge)
 
----
+
 
 ## 📫 Contact
 
